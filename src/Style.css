@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.title {
+  color: fuchsia;
+  font-size: 70px;
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", "Geneva", "Verdana", "sans-serif";
+}
+img {
+  margin: 5px;
+}
+.videos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px;
+}
+video {
+  margin-top: 20px;
+}
